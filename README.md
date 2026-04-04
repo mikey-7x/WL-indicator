@@ -41,7 +41,7 @@ The system is built on the **ESP32 DevKit V1 (30-pin board)**. You can view the 
 
 ## 🛠️ Software Installation
 
-### 1. ESP32 Firmware (`WL_Indicator.ino`)
+### 1. ESP32 Firmware (`wl.ino`)
 Upload this file using Arduino IDE or ArduinoDroid. It handles the Wi-Fi AP, the JSON status API, and the calibrated LED threshold logic.
 
 * **SSID:** `Water_Level_System`
