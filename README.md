@@ -1,4 +1,4 @@
-WL Indicator (Water Level System) by mikey-7x
+💧🌊WL Indicator (Water Level System) by mikey-7x
 
 ![WL Indicator Banner](poster.jpg)
 
