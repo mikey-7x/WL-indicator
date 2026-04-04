@@ -1,7 +1,6 @@
-# WL Indicator (Water Level System)
-by mikey-7x
+# WL Indicator (Water Level System) by mikey-7x
 
-![WL Indicator Banner](banner.png)
+![WL Indicator Banner](poster.jpg)
 
 ## Overview
 A high professional, internet-of-things (IoT) solution for real-time monitoring and control of a seven-point water storage tank system. 
@@ -15,6 +14,11 @@ The **WL Indicator** is a dual-system architecture designed for absolute reliabi
 * **Standby Mode Power Efficiency:** The system is engineered to remain passive when the motor is off. The sensor does not collect measurements, the buzzer is silenced, the physical LED board is completely dark, and the app displays a passive state (`-- %`), activating instantly when the motor is toggled.
 * **Modern Material Design:** A sleek, dark slate (#1E293B) theme with professional emerald green (#10B981) UI accents, following current-generation Material Design standards.
 * **Critical Overfill Prevention:** The final water level band (90%) immediately triggers all 7 LEDs and sounds the physical buzzer simultaneously, preventing costly overspill before the system reaches absolute 100% voltage.
+
+## 🥽 circuit Diagram 
+![wl circuit diagram](wl.jpg)
+
+
 
 ## 🔌 Hardware Circuit & Pinout
 The system is built on the **ESP32 DevKit V1 (30-pin board)**. You can view the full professional circuit diagram in the repository (see `circuit_diagram.jpg`).
