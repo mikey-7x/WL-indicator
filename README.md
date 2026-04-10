@@ -17,7 +17,7 @@ The **WL Indicator** is a dual-system architecture designed for absolute reliabi
 
 ## 🥽 circuit Diagram 
 ![wl circuit diagram](wl.jpg)
-
+![physical circuit](wli.jpg)
 
 
 ## 🔌 Hardware Circuit & Pinout
